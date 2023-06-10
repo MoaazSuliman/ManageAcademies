@@ -3,7 +3,7 @@
 This Is a Desktop Application. ==> Task For Alnouras Company.
 
 I Used :
-   Java  , Swing   , OOP , Maven .
+   Java  , Swing   , OOP , SQLite Maven .
    clean code not good enough and i have reasons for that LOL!.
 System :
 1- Manage Employees (add , update , delete  , view all ).
